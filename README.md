@@ -2,7 +2,7 @@
 
 Projects related to statistics, data minining. 
 
-## **Classification of Turkish Politians Tweets**
+## [Classification of Turkish Politians Tweets](Tweets_Classification.ipynb)
 Analysis and Classification of Turkish Politicians' Tweets using various methods.
 
 In this project, tweets from 4 political leaders of Turkey are analyzed and classifed.
@@ -24,11 +24,12 @@ After each of these preprocessing methods following classification methods are a
 
 Finaly some further analysis is made to have a better understanding of the data and the results.
 
-## **Bayesian Statistics - MCMC**
+## [Bayesian Statistics - MCMC](Bayesian_Stats.md)
+
 
 Bayesian analysis and Markov Chain Monte Carlo methods applied on a dataset taken from http://www.openbugs.net/Examples/Seeds.html.
 
 
-## **Lyrics Scraping and Search Engine**
+## [Lyrics Scraping and Search Engine](Lyrics_project.ipynb)
 
 Lyrics gathered from a website and analyzed. Furthermore a basic search engine is built by returning relevant lyrics given a query.  
